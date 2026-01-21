@@ -4,3 +4,7 @@ This dataset contains order-level sales and customer review data for influencer 
 # DATA SOURCE 
 Thia data was gotten from Kaggle
 =[DOWNLOAD HERE](https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales)
+
+# DASHBOARD
+[Merch sales](<img width="1549" height="735" alt="Screenshot 2026-01-21 170905" src="https://github.com/user-attachments/assets/d338ca93-6034-4bbd-99b1-a63f6b729c18" />)
+
