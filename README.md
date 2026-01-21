@@ -6,6 +6,7 @@ Thia data was gotten from Kaggle
 =[DOWNLOAD HERE](https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales)
 
 # DASHBOARD
-[Merch sales](<img width="1920" height="1080" alt="Screenshot 2026-01-21 171651" src="https://github.com/user-attachments/assets/f320ecdd-7bdb-449c-ba3c-49f271ccf7d1" />)
+[Merch sales]
+(<img width="1920" height="1080" alt="Screenshot 2026-01-21 171651" src="https://github.com/user-attachments/assets/f320ecdd-7bdb-449c-ba3c-49f271ccf7d1" />)
 
 
