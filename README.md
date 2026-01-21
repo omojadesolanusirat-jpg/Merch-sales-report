@@ -7,4 +7,4 @@ Thia data was gotten from Kaggle
 
 # DASHBOARD
 [Merch sales]
-(<img width="1549" height="735" alt="Screenshot 2026-01-21 170905" src="https://github.com/user-attachments/assets/1974c2fa-ff9c-4cba-a229-86725a2aa9dc" />)
+(<img width="1557" height="743" alt="Screenshot 2026-01-21 190629" src="https://github.com/user-attachments/assets/80acecd7-d5be-4efd-866a-54fc7625407e" />)
